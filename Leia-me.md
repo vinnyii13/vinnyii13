@@ -1,4 +1,4 @@
-## Olá eu sou a Rafaella Ballerini, Desenvolvedor Full Stack em formação !
+## Olá eu sou o Vinicius Santos Oliveira, Desenvolvedor Full Stack em formação !
 
 
 <div style="display: inline_block"><br>
