@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=180&section=header&text=Olá,%20eu%20sou%20o%20Vinny!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=180&section=header&text=Olá,%20eu%20sou%20o%20Vinicius!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinnyii13&color=0D6EFD&style=flat-square" alt="Profile views" />
